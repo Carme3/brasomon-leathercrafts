@@ -1,0 +1,199 @@
+body{
+    position: relative;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+.carousel-inner img {
+    width: 90%;
+    height: 39rem;
+    left: 5%;
+    margin-top: 1rem;
+}
+.carousel{
+    width: 90%;
+    height: 35rem;
+    left: 5%;
+    margin: -0%;
+    margin-bottom: 3rem;
+
+}
+.round{
+    position: relative;
+    right: -1rem;
+    border-radius: 20%;
+    width: 4rem;
+    height: 4rem;
+}
+.nav-item{
+    position: relative;
+    right: -3rem;
+}
+.navbar{
+    background-color: lightseagreen;
+    font-size: 1rem;
+}
+.twiter{
+    width: 4rem;
+}
+.footer{
+    height: 4.1rem;
+    background-color: teal;
+}
+hr{
+    
+    width: 90%;
+    
+}
+#offer4 .offerTag{
+    margin-top: -1rem;
+}
+#offer4{
+    position: relative;
+    bottom: -8rem;
+    
+}
+hr{
+    position: relative;
+    bottom: -5rem;
+    margin-bottom: 20rem;
+}
+#offer1, #offer3{
+    position: relative;
+    left: -3rem;
+}
+#offer2, #offer4{
+    position: relative;
+    right: -3rem;
+}
+.offerTag{
+    top: 3.5rem;
+    position: relative;
+}
+#offer3{
+    position: relative;
+    bottom: -5rem;
+}
+.offers{
+    border-bottom: 0.5rem solid black;
+    border-left: 0.5rem solid black;
+    color: white;
+    border-radius: 10%;
+    position: relative;
+    bottom: -3rem;
+    background-color: teal;
+    width: 30rem;
+    height: 20rem;
+    display: inline-block;
+}
+.shopNow{
+    bottom: -2rem;
+    position: relative;
+    right: -25rem;
+    height: 3rem;
+    width: 10rem;
+    border: solid teal 2px;
+}
+.offerTag{
+    font-size: 3rem;
+}
+.tell{
+    font-size: 3rem;
+    position: relative;
+    top: -2rem;
+}
+.options{
+    position: relative;
+    top: -5rem;
+}
+.shopShare2{
+    color: white;
+    background-color: teal;
+    font-size: 1.8rem;
+    display: inline-block;
+    position: relative;
+    height: 3rem;
+    width: 10rem;
+    border: solid gray 2px;
+    right: -3rem;
+}
+#shopTagTop{
+    color: white;
+}
+#shopTag{
+    color: black;
+}
+.shopShare1{
+    left: -3rem;
+    font-size: 1.8rem;
+    display: inline-block;
+    position: relative;
+    height: 3rem;
+    width: 10rem;
+    border: solid teal 2px;
+}
+.carousel-caption{
+    color: white;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+}
+.foot-list{
+    position: relative;
+    top: 0.5rem;
+    left: -1rem;
+}
+.foot-item{
+    font-size: 1.2rem;
+    color: white;
+    display: inline-block;
+}
+.foot-item4{
+    top: -1rem;
+    font-size: 0.9rem;
+    position: relative;
+    color: white;
+    display: inline-block;
+}
+.item1,.item2,.item3,.item4{
+    position: relative;
+    margin-top: 4rem;
+}
+.items1,.items2,.items3,.items4{
+    position: relative;
+    margin-top: 4rem;
+    margin-bottom: 20rem;
+    
+}
+.item2,.items2{
+    position: relative;
+    left: -0.3rem;
+}
+.item3,.items3{
+
+    position: relative;
+    right: -1rem;
+    left: 0.4rem;
+}
+.item4,.items4{
+    position: relative;
+    right: -2rem;
+    left: 1rem;
+}
+.item1,.items1{
+    position: relative;
+    left: -1rem;
+}
+#item,.pic{
+    display: inline-block;
+    width: 20rem;
+    height: 25rem;
+    background-color: rgb(255, 255, 255);
+}
+.tag{
+    font-size: 70px;
+    margin-top: 3rem;
+}
+.tag1{
+    font-size: 30px;
+}

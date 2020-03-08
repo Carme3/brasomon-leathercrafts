@@ -1,0 +1,55 @@
+body{
+    padding: 0rem;
+    margin: 0rem;
+    font-size: 62.5%;
+}
+.shopShare{
+    color: white;
+    background-color: teal;
+    font-size: 1.8rem;
+    display: inline-block;
+    position: relative;
+    height: 3rem;
+    width: 10rem;
+    border: solid gray 2px;
+}
+.option{
+    position: relative;
+    top: -5rem;
+}
+.view{
+    position: relative;
+    top: -10rem;
+}
+#shopTagTop{
+    font-size: 1.5rem;
+}
+.payment{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 1.8rem;
+    display: inline-block;
+    position: relative;
+    height: 3rem;
+    width: 10rem;
+    border: solid teal 2px;
+   
+}
+.add{
+    color: teal;
+}
+.price, .add{
+    position: relative;
+    font-size: 1.5rem;
+    right: -2rem;
+    display: inline-block;
+    margin-right: 3rem;
+}
+.padd1,.padd2,.padd3,.padd4{
+    display: inline-block;
+    border-bottom: solid black 0.2rem;
+    border-left: solid black 0.2rem;
+}
+hr{
+    margin-bottom: 20rem;
+}
